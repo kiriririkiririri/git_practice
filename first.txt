@@ -1,2 +1,4 @@
 練習するよ
+git add 
+git commit
 
